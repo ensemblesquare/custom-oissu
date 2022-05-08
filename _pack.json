@@ -1,0 +1,541 @@
+{
+    "name": "Idol",
+    "author": "Oi~ssu♪",
+    "icons": [
+        {
+            "commonname": "Kohaku",
+            "fullname": "Kohaku Oukawa",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kohaku.png"
+        },
+        {
+            "commonname": "Aira",
+            "fullname": "Aira Shiratori",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Aira.png"
+        },
+        {
+            "commonname": "Tomoya",
+            "fullname": "Tomoya Mashiro",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tomoya.png"
+        },
+        {
+            "commonname": "Yuta",
+            "fullname": "Yuta Aoi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Yuta.png"
+        },
+        {
+            "commonname": "Yuuta",
+            "fullname": "Yuuta Aoi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Yuta.png"
+        },
+        {
+            "commonname": "Hinata",
+            "fullname": "Hinata Aoi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hinata.png"
+        },
+        {
+            "commonname": "Tori",
+            "fullname": "Tori Himemiya",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tori.png"
+        },
+        {
+            "commonname": "Touri",
+            "fullname": "Touri Himemiya",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tori.png"
+        },
+        {
+            "commonname": "Hiiro",
+            "fullname": "Hiiro Amagi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hiiro.png"
+        },
+        {
+            "commonname": "Mitsuru",
+            "fullname": "Mitsuru Tenma",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mitsuru.png"
+        },
+        {
+            "commonname": "Midori",
+            "fullname": "Midori Takamine",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Midori.png"
+        },
+        {
+            "commonname": "Hajime",
+            "fullname": "Hajime Shino",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hajime.png"
+        },
+        {
+            "commonname": "Sora",
+            "fullname": "Sora Harukawa",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Sora.png"
+        },
+        {
+            "commonname": "Tetora",
+            "fullname": "Tetora Nagumo",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tetora.png"
+        },
+        {
+            "commonname": "Shinobu",
+            "fullname": "Shinobu Sengoku",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Shinobu.png"
+        },
+        {
+            "commonname": "Tsukasa",
+            "fullname": "Tsukasa Suou",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tsukasa.png"
+        },
+        {
+            "commonname": "Mao",
+            "fullname": "Mao Isara",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mao.png"
+        },
+        {
+            "commonname": "Arashi",
+            "fullname": "Arashi Narukami",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Arashi.png"
+        },
+        {
+            "commonname": "Natsume",
+            "fullname": "Natsume Sakasaki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Natsume.png"
+        },
+        {
+            "commonname": "Tatsumi",
+            "fullname": "Tatsumi Kazehaya",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tatsumi.png"
+        },
+        {
+            "commonname": "Mika",
+            "fullname": "Mika Kagehira",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mika.png"
+        },
+        {
+            "commonname": "Hokuto",
+            "fullname": "Hokuto Hidaka",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hokuto.png"
+        },
+        {
+            "commonname": "Ibara",
+            "fullname": "Ibara Saegusa",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Ibara.png"
+        },
+        {
+            "commonname": "Yuzuru",
+            "fullname": "Yuzuru Fushimi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Yuzuru.png"
+        },
+        {
+            "commonname": "Adonis",
+            "fullname": "Adonis Otogari",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Adonis.png"
+        },
+        {
+            "commonname": "Jun",
+            "fullname": "Jun Sazanami",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Jun.png"
+        },
+        {
+            "commonname": "Koga",
+            "fullname": "Koga Oogami",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Koga.png"
+        },
+        {
+            "commonname": "Kouga",
+            "fullname": "Kouga Oogami",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Koga.png"
+        },
+        {
+            "commonname": "HiMERU",
+            "fullname": "HiMERU",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/HiMERU.png"
+        },
+        {
+            "commonname": "Subaru",
+            "fullname": "Subaru Akehoshi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Subaru.png"
+        },
+        {
+            "commonname": "Mayoi",
+            "fullname": "Mayoi Ayase",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mayoi.png"
+        },
+        {
+            "commonname": "Makoto",
+            "fullname": "Makoto Yuuki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Makoto.png"
+        },
+        {
+            "commonname": "Souma",
+            "fullname": "Souma Kanzaki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Souma.png"
+        },
+        {
+            "commonname": "Wataru",
+            "fullname": "Wataru Hibiki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Wataru.png"
+        },
+        {
+            "commonname": "Kuro",
+            "fullname": "Kuro Kiryu",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kuro.png"
+        },
+        {
+            "commonname": "Kurou",
+            "fullname": "Kurou Kiryuu",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kuro.png"
+        },
+        {
+            "commonname": "Eichi",
+            "fullname": "Eichi Tenshouin",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Eichi.png"
+        },
+        {
+            "commonname": "Kaoru",
+            "fullname": "Kaoru Hakaze",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kaoru.png"
+        },
+        {
+            "commonname": "Izumi",
+            "fullname": "Izumi Sena",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Izumi.png"
+        },
+        {
+            "commonname": "Shu",
+            "fullname": "Shu Itsuki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Shu.png"
+        },
+        {
+            "commonname": "Shuu",
+            "fullname": "Shuu Itsuki",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Shu.png"
+        },
+        {
+            "commonname": "Nagisa",
+            "fullname": "Nagisa Ran",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Nagisa.png"
+        },
+        {
+            "commonname": "Niki",
+            "fullname": "Niki Shiina",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Niki.png"
+        },
+        {
+            "commonname": "Ritsu",
+            "fullname": "Ritsu Sakuma",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Ritsu.png"
+        },
+        {
+            "commonname": "Chiaki",
+            "fullname": "Chiaki Morisawa",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Chiaki.png"
+        },
+        {
+            "commonname": "Keito",
+            "fullname": "Keito Hasumi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Keito.png"
+        },
+        {
+            "commonname": "Kanata",
+            "fullname": "Kanata Shinkai",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kanata.png"
+        },
+        {
+            "commonname": "Tsumugi",
+            "fullname": "Tsumugi Aoba",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tsumugi.png"
+        },
+        {
+            "commonname": "Hiyori",
+            "fullname": "Hiyori Tomoe",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hiyori.png"
+        },
+        {
+            "commonname": "Madara",
+            "fullname": "Madara Mikejima",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Madara.png"
+        },
+        {
+            "commonname": "Leo",
+            "fullname": "Leo Tsukinaga",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Leo.png"
+        },
+        {
+            "commonname": "Nazuna",
+            "fullname": "Nazuna Nito",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Nazuna.png"
+        },
+        {
+            "commonname": "Rei",
+            "fullname": "Rei Sakuma",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Rei.png"
+        },
+        {
+            "commonname": "Rinne",
+            "fullname": "Rinne Amagi",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Rinne.png"
+        },
+        {
+            "commonname": "코하쿠",
+            "fullname": "오우카와 코하쿠",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kohaku.png"
+        },
+        {
+            "commonname": "아이라",
+            "fullname": "시라토리 아이라",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Aira.png"
+        },
+        {
+            "commonname": "토모야",
+            "fullname": "마시로 토모야",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tomoya.png"
+        },
+        {
+            "commonname": "유우타",
+            "fullname": "아오이 유우타",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Yuta.png"
+        },
+        {
+            "commonname": "히나타",
+            "fullname": "아오이 히나타",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hinata.png"
+        },
+        {
+            "commonname": "토리",
+            "fullname": "히메미야 토리",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tori.png"
+        },
+        {
+            "commonname": "히이로",
+            "fullname": "아마기 히이로",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hiiro.png"
+        },
+        {
+            "commonname": "미츠루",
+            "fullname": "텐마 미츠루",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mitsuru.png"
+        },
+        {
+            "commonname": "미도리",
+            "fullname": "타카미네 미도리",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Midori.png"
+        },
+        {
+            "commonname": "하지메",
+            "fullname": "시노 하지메",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hajime.png"
+        },
+        {
+            "commonname": "소라",
+            "fullname": "하루카와 소라",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Sora.png"
+        },
+        {
+            "commonname": "테토라",
+            "fullname": "나구모 테토라",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tetora.png"
+        },
+        {
+            "commonname": "시노부",
+            "fullname": "센고쿠 시노부",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Shinobu.png"
+        },
+        {
+            "commonname": "츠카사",
+            "fullname": "스오우 츠카사",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tsukasa.png"
+        },
+        {
+            "commonname": "마오",
+            "fullname": "이사라 마오",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mao.png"
+        },
+        {
+            "commonname": "아라시",
+            "fullname": "나루카미 아라시",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Arashi.png"
+        },
+        {
+            "commonname": "나츠메",
+            "fullname": "사카사키 나츠메",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Natsume.png"
+        },
+        {
+            "commonname": "타츠미",
+            "fullname": "카제하야 타츠미",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tatsumi.png"
+        },
+        {
+            "commonname": "미카",
+            "fullname": "카게히라 미카",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mika.png"
+        },
+        {
+            "commonname": "호쿠토",
+            "fullname": "히다카 호쿠토",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hokuto.png"
+        },
+        {
+            "commonname": "이바라",
+            "fullname": "사에구사 이바라",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Ibara.png"
+        },
+        {
+            "commonname": "유즈루",
+            "fullname": "후시미 유즈루",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Yuzuru.png"
+        },
+        {
+            "commonname": "아도니스",
+            "fullname": "오토가리 아도니스",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Adonis.png"
+        },
+        {
+            "commonname": "쥰",
+            "fullname": "사자나미 쥰",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Jun.png"
+        },
+        {
+            "commonname": "코가",
+            "fullname": "오오가미 코가",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Koga.png"
+        },
+        {
+            "commonname": "히메루",
+            "fullname": "HiMERU",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/HiMERU.png"
+        },
+        {
+            "commonname": "스바루",
+            "fullname": "아케호시 스바루",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Subaru.png"
+        },
+        {
+            "commonname": "마요이",
+            "fullname": "아야세 마요이",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Mayoi.png"
+        },
+        {
+            "commonname": "마코토",
+            "fullname": "유우키 마코토",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Makoto.png"
+        },
+        {
+            "commonname": "소마",
+            "fullname": "칸자키 소마",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Souma.png"
+        },
+        {
+            "commonname": "와타루",
+            "fullname": "히비키 와타루",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Wataru.png"
+        },
+        {
+            "commonname": "쿠로",
+            "fullname": "키류 쿠로",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kuro.png"
+        },
+        {
+            "commonname": "에이치",
+            "fullname": "텐쇼인 에이치",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Eichi.png"
+        },
+        {
+            "commonname": "카오루",
+            "fullname": "하카제 카오루",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kaoru.png"
+        },
+        {
+            "commonname": "이즈미",
+            "fullname": "세나 이즈미",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Izumi.png"
+        },
+        {
+            "commonname": "슈",
+            "fullname": "이즈키 슈",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Shu.png"
+        },
+        {
+            "commonname": "나기사",
+            "fullname": "란 나기사",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Nagisa.png"
+        },
+        {
+            "commonname": "니키",
+            "fullname": "시이나 니키",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Niki.png"
+        },
+        {
+            "commonname": "리츠",
+            "fullname": "사쿠마 리츠",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Ritsu.png"
+        },
+        {
+            "commonname": "치아키",
+            "fullname": "모리사와 치아키",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Chiaki.png"
+        },
+        {
+            "commonname": "케이토",
+            "fullname": "하스미 케이토",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Keito.png"
+        },
+        {
+            "commonname": "카나타",
+            "fullname": "신카이 카나타",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Kanata.png"
+        },
+        {
+            "commonname": "츠무기",
+            "fullname": "아오바 츠무기",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Tsumugi.png"
+        },
+        {
+            "commonname": "히요리",
+            "fullname": "토모에 히요리",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Hiyori.png"
+        },
+        {
+            "commonname": "마다라",
+            "fullname": "미케지마 마다라",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Madara.png"
+        },
+        {
+            "commonname": "레오",
+            "fullname": "츠키나가 레오",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Leo.png"
+        },
+        {
+            "commonname": "나즈나",
+            "fullname": "니토 나즈나",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Nazuna.png"
+        },
+        {
+            "commonname": "레이",
+            "fullname": "사쿠마 레이",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Rei.png"
+        },
+        {
+            "commonname": "린네",
+            "fullname": "아마기 린네",
+            "filename": "https://uchuu.yuukun.dev/oissu/icons/enstars/es-idol-outfit/Rinne.png"
+        },
+        {
+            "commonname": "진",
+            "fullname": "사가미 진",
+            "filename": "/scripts/jin.png"
+        },
+        {
+            "commonname": "아키오미",
+            "fullname": "쿠누기 아키오미",
+            "filename": "/scripts/akiomi.png"
+        },
+        {
+            "commonname": "세이야",
+            "fullname": "히다카 세이야",
+            "filename": "/scripts/seiya.png"
+        },
+        {
+            "commonname": "시아",
+            "fullname": "이이 시아",
+            "filename": "/scripts/sia.jpg"
+        }
+    ]
+}
