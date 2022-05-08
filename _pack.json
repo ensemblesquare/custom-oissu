@@ -520,22 +520,22 @@
         {
             "commonname": "진",
             "fullname": "사가미 진",
-            "filename": "/scripts/jin.png"
+            "filename": "https://cdn.jsdelivr.net/gh/ensemblesquare/custom-oissu/jin.png"
         },
         {
             "commonname": "아키오미",
             "fullname": "쿠누기 아키오미",
-            "filename": "/scripts/akiomi.png"
+            "filename": "https://cdn.jsdelivr.net/gh/ensemblesquare/custom-oissu/akiomi.png"
         },
         {
             "commonname": "세이야",
             "fullname": "히다카 세이야",
-            "filename": "/scripts/seiya.png"
+            "filename": "https://cdn.jsdelivr.net/gh/ensemblesquare/custom-oissu/seiya.png"
         },
         {
             "commonname": "시아",
             "fullname": "이이 시아",
-            "filename": "/scripts/sia.jpg"
+            "filename": "https://cdn.jsdelivr.net/gh/ensemblesquare/custom-oissu/sia.jpg"
         }
     ]
 }
